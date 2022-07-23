@@ -2,7 +2,7 @@
 
 #### Sobre mim:
 
-- 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas
+- 🔭 Estudante de Análise e Desenvolvimento de Sistemas
 - 🌱 Atuamente estou aprendendo Java
 
 #### Algumas linguagens que tenho estudado:
