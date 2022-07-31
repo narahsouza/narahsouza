@@ -12,6 +12,4 @@
 
 LinkedIn: [narahsouza](https://linkedin.com/in/narahsouza)
 
-Telegram: [@narahsouza](https://t.me/narahsouza)
-
 Email: [narahsouza@live.com](mailto:narahsouza@live.com)
