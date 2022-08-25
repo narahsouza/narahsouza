@@ -10,6 +10,5 @@
 
 #### Contatos:
 
-LinkedIn: [narahsouza](https://linkedin.com/in/narahsouza)
-
-Email: [narahsouza@live.com](mailto:narahsouza@live.com)
+- LinkedIn: [narahsouza](https://linkedin.com/in/narahsouza)
+- Email: [narahsouza@live.com](mailto:narahsouza@live.com)
