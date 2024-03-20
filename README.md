@@ -2,7 +2,7 @@
 
 #### Sobre mim:
 
-- 🔭 Estudando **HTML**, **CSS** e **Javascript/ECMAScript** no **[freeCodeCamp](https://www.freecodecamp.org/portuguese/narahsouza)**;
+- 🌱 Aperfeiçoando **HTML**, **CSS** e **Javascript/ECMAScript** no **[freeCodeCamp](https://www.freecodecamp.org/portuguese/narahsouza)**;
 - 🎓 Graduada em **Análise e Desenvolvimento de Sistemas**.
 
 #### Algumas linguagens que tenho estudado:
