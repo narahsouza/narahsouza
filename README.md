@@ -11,3 +11,4 @@
 #### Contato:
 
 - Email: [narahsouza@outlook.com](mailto:narahsouza@outlook.com)
+- LinkedIn: [linkedin.com/in/narahsouza/](https://linkedin.com/in/narahsouza/)
