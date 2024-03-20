@@ -10,4 +10,4 @@
 
 #### Contato:
 
-- Email: [narahsouza@myyahoo.com](mailto:narahsouza@myyahoo.com)
+- Email: [narahsouza@outlook.com](mailto:narahsouza@outlook.com)
